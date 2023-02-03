@@ -1,0 +1,4 @@
+127.0.0.1 - - 22/Nov/2022:17:17:01 -0300 "GET /api/categories HTTP/1.1" 200 - GET "-" "undici" "-" "-" -
+127.0.0.1 - - 22/Nov/2022:17:17:18 -0300 "GET /api/noticias/feedinfo HTTP/1.1" 401 - GET "-" "undici" "-" "-" -
+127.0.0.1 - - 22/Nov/2022:17:17:18 -0300 "GET /api/categories HTTP/1.1" 200 911 GET "-" "undici" "-" "-" -
+127.0.0.1 - - 22/Nov/2022:17:19:54 -0300 "GET /api/noticias/feedinfo HTTP/1.1" 401 - GET "-" "undici" "-" "-" -
