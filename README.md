@@ -1,5 +1,5 @@
 ## Sobre
-Projeto final desenvolvido na disciplina de Programação para Web II (2022/02) do curso de Sistemas para Internet - IFRS
+Projeto final desenvolvido na disciplina de Programação para Web II do curso de Sistemas para Internet - IFRS
 
 Apresentação: https://www.youtube.com/watch?v=c8zaebpp-Sc
 
