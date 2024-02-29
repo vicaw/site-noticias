@@ -24,6 +24,16 @@ Requisitos:
 Back-end feito utilizando o framework Quarkus (Java), integrando um microsserviço de imagens.
 
 ### Front-end
-Front-end desenvolvido com Next.js, utilizando Tailwind CSS.
+Front-end desenvolvido com Next.js, utilizando Tailwind CSS. Desing "inspirado" no g1.
 
 Como o front-end era opcional (não seria avaliado), aproveitei a oportunidade para aprender um pouco sobre TypeScript e o novo app-dir do Next.
+
+## Prints
+![Home](prints/1.png)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+![Noticia1](prints/2.png)
