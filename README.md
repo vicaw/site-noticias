@@ -1,7 +1,7 @@
 ## Sobre
 Projeto final desenvolvido na disciplina de Programação para Web II (2022/02) do curso de Sistemas para Internet - IFRS
 
-Apresentação (cuidado com o volume): https://www.youtube.com/watch?v=c8zaebpp-Sc
+Apresentação: https://www.youtube.com/watch?v=c8zaebpp-Sc
 
 ## Definição
 O projeto final consiste dos estudantes implementarem um ou mais Web Service que funcionarão como um back-end para uma aplicação front-end de tema livre. Obrigatoriamente o back-end deve ser escrito em Java (tema da disciplina), porém, o front-end pode ser implementado com a linguagem/framework que o estudante se sentir mais confortável.
